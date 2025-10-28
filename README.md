@@ -1,7 +1,7 @@
 # 🌍 Product Emission Prediction Using Machine Learning
 
 ## 🚀 Project Overview
-The project combined data from the UK Greenhouse Gas Conversion Factors (2025) 🇬🇧 and a Kaggle e-commerce dataset 🛒 to create a synthetic dataset with product details and estimated carbon emissions. Data preprocessing in Python 🐍 involved cleaning, handling missing values, and creating new features like mass ⚖️ and emission factor 🌫️.
+The project combined data from the UK Greenhouse Gas Conversion Factors (2025) and a Kaggle e-commerce dataset 🛒 to create a synthetic dataset with product details and estimated carbon emissions. Data preprocessing in Python 🐍 involved cleaning, handling missing values, and creating new features like mass ⚖️ and emission factor 🌫️.
 
 This project aims to predict the emissions of various products using machine learning regression models based on their mass and emission factor features. The target variable includes small product-specific noise 🔊 added to simulate measurement uncertainties or real-world variance.
 
