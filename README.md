@@ -39,4 +39,4 @@ The script plots the \(R^2\) scores of all models for quick comparison and insig
 - Extending models to classification or time series if data permits ⏳.
 
 ## 📫 Contact
-For questions or collaborations, please reach out via email: anushjathananush@gmail.com ✉️
+For questions or collaborations, please reach out via email: anushjathan268@gmail.com ✉️
